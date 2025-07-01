@@ -27,10 +27,10 @@
 
 ## 🏆 Selected Awards
 
-* **Nellie & Ralph Jeffery Award in Mathematics** – \$23,400 (2024) fileciteturn0file0
-* **NSERC Undergraduate Research Award** – \$6,000 (2023) fileciteturn0file0
-* **First Place – Queen’s Engineering Competition** (2023) fileciteturn0file0
-* **Best AI Retrieval – HackAI Toronto** (2025) fileciteturn0file0
+* **Nellie & Ralph Jeffery Award in Mathematics** – \$23,400 (2024)
+* **NSERC Undergraduate Research Award** – \$6,000 (2023)
+* **First Place – Queen’s Engineering Competition** (2023)
+* **Best AI Retrieval – HackAI Toronto** (2025)
 
 ## 📈 GitHub Stats
 
