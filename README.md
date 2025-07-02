@@ -7,8 +7,8 @@
 ## 🚀 About Me
 
 * 🎓 Final‑year Mathematics & Engineering (Computing) student @ **Queen’s University** (returning Sept 2025)
-* 💼 **Data engineer** & **AI researcher** with stints at Celestica  fileciteturn0file0
-* 🔬 **NSERC‑funded researcher** in Lyapunov‑based control theory  fileciteturn0file0
+* 💼 **Data engineer** & **AI researcher** with stints at Celestica
+* 🔬 **NSERC‑funded researcher** in Lyapunov‑based control theory
 * 📊 Passionate about **building things**, **quantitative finance**, and **LLM‑powered agents**
 * 📰 Building **Compile** — an AI‑driven personalized news platform
 
