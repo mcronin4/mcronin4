@@ -6,24 +6,24 @@
 
 ## 🚀 About Me
 
-* 🎓 Final‑year Mathematics & Engineering (Computing) student @ **Queen’s University** (returning Sept 2025)
-* 💼 **Data engineer** & **AI researcher** at Celestica
+* 🎓 Final‑year Mathematics & Engineering (Computing) student @ **Queen’s University**
+* 💼 **Data Engineering Intern** & **AI researcher** at Celestica
 * 🔬 **NSERC‑funded researcher** in Lyapunov‑based control theory
-* 📊 Passionate about **building things**, **quantitative finance**, and **LLM‑powered agents**
+* 📊 Passionate about **building things**
 * 📰 Building **Compile** — an AI‑driven personalized news platform
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge\&logo=apachespark\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=nextdotjs\&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-24B47E?style=for-the-badge\&logo=supabase\&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=nextdotjs\&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-24B47E?style=for-the-badge\&logo=supabase\&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
 ## 🔭 Current Projects
 
 | Project        | What it does                                                                     | Tech Highlights                      |
 | -------------- | -------------------------------------------------------------------------------- | ------------------------------------ |
-| **Compile.ai** | RAG pipeline that surfaces trustworthy AI news with citations                    | Cohere 📚, Supabase 🪣, LangChain ⛓️ |
-| **SCROOPY**    | Agent that discovers reputable sources & auto‑generates scraping schemas         | Crawl4AI 🐛, LLM 🤖                  |
-| **Chameleon**  | Turns long‑form content into short social posts (won HackAI “Best AI Retrieval”) | LangGraph 🔗, Gemini ✨               |
+| **Compile** | RAG pipeline that surfaces trustworthy AI news with citations                    | Cohere, Supabase, LangChain  |
+| **Mantis**    | Command line tool that autochecks your web app for ui bugs (accessible through pip)         | Python, PyPi, Cohere                  |
+| **Chameleon**  | Turns long‑form content into short social posts (won HackAI “Best AI Retrieval”) | LangGraph, Gemini               |
 
 ## 🏆 Selected Awards
 
@@ -43,7 +43,6 @@
 * Led a **26‑day white‑water canoe trek**, paddling over 800 km  fileciteturn0file0
 * Co‑captain of a volleyball team ranked **top‑8 in Canada**  fileciteturn0file0
 * My desk ratio of **coffee mugs : monitors is 3 : 2** ☕🖥️
-* Favourite debugging trick: rubber‑ducking with a rubber loon named **Larry** 🦆
 
 ## 📫 How to Reach Me
 
