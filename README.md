@@ -1,13 +1,11 @@
 # Hi there, I’m **Michael Cronin**! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
-> *Turning information into insight through code, data, and a healthy dose of caffeine.*
-
 ---
 
 ## 🚀 About Me
 
 * 🎓 Final‑year Mathematics & Engineering (Computing) student @ **Queen’s University**
-* 💼 **Data Engineering Intern** & **AI researcher** at Celestica
+* 💼 **Data Engineering Intern** at Celestica
 * 🔬 **NSERC‑funded researcher** in Lyapunov‑based control theory
 * 📊 Passionate about **building things**
 * 📰 Building **Compile** — an AI‑driven personalized news platform
@@ -17,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge\&logo=apachespark\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=nextdotjs\&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-24B47E?style=for-the-badge\&logo=supabase\&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
-## 🔭 Current Projects
+## 🔭 Select Projects
 
 | Project        | What it does                                                                     | Tech Highlights                      |
 | -------------- | -------------------------------------------------------------------------------- | ------------------------------------ |
@@ -48,9 +46,5 @@
 
 * ✉️ **[michael.cronin@queensu.ca](mailto:michael.cronin@queensu.ca)**
 * 💼 [LinkedIn](https://www.linkedin.com/in/michael-cronin-20mjc8/)
-
----
-
-> *“Code quietly and carry a big dataset.”* 🎯
 
 <!-- END OF PROFILE README -->
