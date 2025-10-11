@@ -5,9 +5,9 @@
 ## 🚀 About Me
 
 * 🎓 Final‑year Mathematics & Engineering (Computing) student @ **Queen’s University**
-* 💼 **Data Engineering Intern** at Celestica
-* 🔬 **NSERC‑funded researcher** in Lyapunov‑based control theory
-* 📊 Passionate about **building things**
+* 💼 Former **Data Engineering Intern** at Celestica
+* 🔬 Former **NSERC‑funded researcher** in Lyapunov‑based control theory
+* 📊 Passionate about **building all things AI**
 * 📰 Building **Compile** — an AI‑driven personalized news platform
 
 ## 🛠️ Tech Stack
@@ -19,8 +19,8 @@
 
 | Project        | What it does                                                                     | Tech Highlights                      |
 | -------------- | -------------------------------------------------------------------------------- | ------------------------------------ |
-| **Compile** | RAG pipeline that surfaces trustworthy AI news with citations                    | Cohere, Supabase, LangChain  |
-| **Mantis**    | Command line tool that autochecks your web app for ui bugs (accessible through pip)         | Python, PyPi, Cohere                  |
+| **Compile** | Full-stack web application surfaces trustworthy AI news with citations                    | Python, Supabase, LangChain  |
+| **Mantis**    | Command line tool that autochecks your web app for ui bugs (accessible through pip)         | Python, PyPi, Playwright                  |
 | **Chameleon**  | Turns long‑form content into short social posts (won HackAI “Best AI Retrieval”) | LangGraph, Gemini               |
 
 ## 🏆 Selected Awards
