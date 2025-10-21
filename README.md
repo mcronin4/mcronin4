@@ -38,8 +38,8 @@
 
 ## ⚡ Fun Facts
 
-* Led a **26‑day white‑water canoe trek**, paddling over 800 km  fileciteturn0file0
-* Co‑captain of a volleyball team ranked **top‑8 in Canada**  fileciteturn0file0
+* Went on a **26‑day white‑water canoe trek**, paddling over 500 km
+* Co‑captain of a volleyball team ranked **top‑8 in Canada**
 * My desk ratio of **coffee mugs : monitors is 3 : 2** ☕🖥️
 
 ## 📫 How to Reach Me
