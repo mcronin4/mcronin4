@@ -1,4 +1,6 @@
-# Hi, I’m **Michael**, SWE @ Exa
+# Hi, I’m **Michael**,
+
+SWE @ Exa
 
 I like solving hard problems.
 
